@@ -1,6 +1,8 @@
 # rlm-sandbox
 
-An implementation of [Recursive Language Models](https://arxiv.org/abs/2512.24601) (Zhang, A. L. et al., 2025; [GitHub](https://github.com/alexzhang13/rlm)) with isolated E2B sandbox execution. The agent writes and runs Python in a sandboxed REPL, iterating until it produces a final answer. Sandbox code can call `llm_call(prompt)` to query a sub-LLM mid-execution via a file-based bridge (the sandbox has no internet). A FastAPI/WebSocket UI streams each turn's code and output to the browser in real time.
+An implementation of [Recursive Language Models](https://arxiv.org/abs/2512.24601) with isolated E2B sandbox execution. The agent writes and runs Python in a sandboxed REPL, iterating until it produces a final answer. Sandbox code can call `llm_call(prompt)` to query a sub-LLM mid-execution via a file-based bridge, since the sandbox has no internet access. A FastAPI/WebSocket UI streams each turn’s code and output to the browser in real time.
+
+- Zhang, A., & Khattab, O. (2025, October). *Recursive language models*. https://alexzhang13.github.io/blog/2025/rlm/
 
 ## Setup
 
