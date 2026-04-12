@@ -1,0 +1,101 @@
+id,name,company,region,segment,signup_date,lifetime_spend,active
+1,Alice Moran,Vertex Labs,North,enterprise,2024-01-15,48200.50,true
+2,Bob Chesney,Freeform VR,South,startup,2024-02-20,12800.00,true
+3,Carol Dunne,MedSim Corp,East,enterprise,2024-03-05,67500.25,true
+4,Dave Ito,,North,individual,2024-04-12,3400.00,false
+5,Eve Santoro,Immersive Ed,South,education,2024-05-01,28750.75,true
+6,Frank Olsen,,West,individual,2024-06-18,5920.00,true
+7,Grace Liu,NeuroPlay Inc,East,enterprise,2024-07-08,53100.00,true
+8,Hank Weiss,TrainSim Pro,North,enterprise,2024-08-22,41650.00,true
+9,Irene Bak,Spatial UX,West,startup,2024-09-10,15300.50,true
+10,James Vega,,South,individual,2024-10-05,2150.00,false
+11,Kim Nakata,ArcadeVR,East,startup,2024-11-12,9800.00,true
+12,Leo Marsh,Archviz Studio,North,enterprise,2024-12-01,37400.00,true
+13,Maya Torres,Freeform VR,South,startup,2025-01-08,8600.00,true
+14,Nils Frey,,West,individual,2025-02-14,1800.00,true
+15,Olivia Chen,MedSim Corp,East,enterprise,2025-03-03,22100.00,true
+16,Paul Richter,Vertex Labs,North,enterprise,2024-01-28,$51,300.00,true
+17,Quinn Delaney,Freeform VR,south,startup,2024-02-02,14250.00,TRUE
+18,Rosa Vega,,South,individual,2024-03-19,4100.00,false
+19,Sam Okafor,MedSim Corp,East,Enterprise,2024-04-07,61200.00,true
+20,Tina Johansson,NeuroPlay Inc.,East,enterprise,2024-05-14,49800.50,true
+21,Uma Patel,"DataSphere, Inc.",West,startup,2024-06-01,17600.00,true
+22,Victor Huang,,north,individual,2024-06-30,2980.00,TRUE
+23,Wendy Zhao,Immersive Ed,South,Education,2024-07-15,31200.00,true
+24,Xander Mills,TrainSim Pro,North,enterprise,2024-08-03,44500.00,true
+25,Yara Stein,,East,individual,2024-09-09,,false
+26,Zach Brennan,ArcadeVR,East,Startup,2024-10-21,11200.00,true
+27,Amy Lockhart,Archviz Studio,North,enterprise,2024-11-05,39800.00,true
+28,Brian Fong,Spatial UX,WEST,startup,2024-12-12,13400.50,true
+29,Carla Mejia,Freeform VR,South,startup,2025-01-20,7250.00,true
+30,Derek Haines,,West,individual,02/28/2025,3200.00,true
+31,Elena Rossi,"Pinnacle Health Systems, LLC",East,enterprise,2024-01-10,72400.00,true
+32,Farhan Ahmed,Vertex Labs,North,enterprise,2024-02-14,46500.00,true
+33,Gina Park,MedSim Corp,East,enterprise,2024-03-28,58900.25,true
+34,Hassan El-Amin,,South,individual,2024-04-15,1200.00,FALSE
+35,Isla McGregor,Immersive Ed,South,education,2024-05-22,26400.00,true
+36,Jake Tran,NeuroPlay Inc,East,enterprise,2024-06-09,51800.00,true
+37,Kira Novak,"DataSphere, Inc.",West,startup,2024-07-01,19200.00,true
+38,Liam O'Brien,,North,individual,2024-07-30,4750.00,true
+39,Mona Khatri,TrainSim Pro,North,enterprise,2024-08-14,38200.00,true
+40,Nate Silver,ArcadeVR,east,startup,2024-09-25,10500.00,true
+41,Opal Jefferson,Archviz Studio,North,enterprise,2024-10-10,35600.00,true
+42,Pete Gruber,Spatial UX,West,startup,2024-11-18,12100.00,true
+43,Bob Chesney,Freeform VR,South,startup,2024-12-05,9400.00,true
+44,Rachel Kim,,East,individual,2025-01-15,2800.00,false
+45,Steve Yamamoto,Vertex Labs,North,enterprise,2025-02-06,50100.00,true
+46,Tara Wilkins,MedSim Corp,East,enterprise,2025-03-12,24500.00,true
+47,Ursula Grant,NeuroPlay Inc,East,enterprise,2024-01-22,55200.50,true
+48,Vince Deluca,,South,individual,2024-02-08,3650.00,false
+49,Wanda Bishop,Immersive Ed,south,education,2024-03-17,29100.00,TRUE
+50,Xu Wei,"Pinnacle Health Systems, LLC",East,enterprise,2024-04-29,68300.00,true
+51,Alice Moran,Vertex Labs,North,enterprise,2024-05-30,$42,800.00,true
+52,Aaron Moss,,West,individual,2024-06-22,5100.00,true
+53,Bianca Ferrero,"DataSphere, Inc.",West,startup,2024-07-11,21300.00,true
+54,Chad Nguyen,ArcadeVR,East,startup,2024-08-19,8750.00,true
+55,Diana Osei,Archviz Studio,North,enterprise,2024-09-01,40200.00,true
+56,Eli Marcus,Spatial UX,West,startup,2024-10-14,14600.50,true
+57,Faye Drummond,Freeform VR,South,startup,2025-01-28,6200.00,true
+58,George Tan,Vertex Labs,North,Enterprise,2025-02-18,47800.00,true
+59,Holly Andersen,MedSim Corp,East,enterprise,03/25/2025,19800.00,true
+60,Ivan Sorokin,,North,individual,2024-01-05,2400.00,false
+61,Jada Collins,NeuroPlay Inc,East,enterprise,2024-02-26,52600.00,true
+62,Kyle Brewer,Immersive Ed,South,education,2024-03-31,27500.75,true
+63,Luna Reyes,"Pinnacle Health Systems, LLC",East,enterprise,2024-04-20,71200.00,true
+64,Marcus Hall,,West,individual,2024-05-09,N/A,false
+65,Nina Petrova,TrainSim Pro,North,enterprise,2024-06-15,43900.00,true
+66,Oscar Dunn,ArcadeVR,East,Startup,2024-07-22,10100.00,true
+67,Priya Kapoor,"DataSphere, Inc.",west,startup,2024-08-08,18500.00,true
+68,Eve Santoro,Immersive Ed,South,education,2024-09-19,14200.00,true
+69,Sofia Lund,Spatial UX,West,startup,2024-10-27,16200.50,true
+70,Trevor Woods,,South,individual,2024-11-03,3900.00,TRUE
+71,Grace Liu,NeuroPlay Inc,East,enterprise,2024-12-20,28400.00,true
+72,Vera Santos,Vertex Labs,North,enterprise,2025-01-12,49500.00,true
+73,Wayne Palmer,MedSim Corp,East,enterprise,2025-02-25,23600.00,true
+74,Ximena Cruz,NeuroPlay Inc,east,enterprise,2025-03-08,54400.00,true
+75,Yusuf Osman,,South,individual,2024-01-18,1650.00,false
+76,Zoe Carpenter,Immersive Ed,South,education,2024-02-12,30500.00,true
+77,Aiden Walsh,"Pinnacle Health Systems, LLC",East,enterprise,2024-03-09,66800.25,true
+78,Bree Nakamura,TrainSim Pro,North,enterprise,2024-04-24,41100.00,true
+79,Caleb Hunt,ArcadeVR,East,startup,2024-05-16,,true
+80,Daria Morozova,"DataSphere, Inc.",West,startup,2024-06-28,20400.00,true
+81,carol dunne,MedSim Corp,East,enterprise,2024-07-14,31500.00,true
+82,Freya Olsen,Spatial UX,West,startup,2024-08-26,11900.50,true
+83,Grant Lawson,,North,individual,2024-09-07,4200.00,true
+84,Heidi Braun,Freeform VR,South,startup,2024-10-19,8100.00,true
+85,Isaac Cho,Vertex Labs,North,enterprise,2024-11-25,46200.00,true
+86,Jasmine Ford,MedSim Corp,East,enterprise,2024-12-10,60500.00,true
+87,Khalid Mansour,NeuroPlay Inc,East,enterprise,2025-01-04,57200.00,true
+88, Irene Bak,Spatial UX,West,startup,2025-02-09,8400.00,true
+89,Mateo Rios,,West,individual,2025/03/15,3050.00,false
+90,Nadia Popov,"Pinnacle Health Systems, LLC",East,enterprise,2024-01-30,69100.00,true
+91, Patricia Green,TrainSim Pro,North,enterprise,2024-02-19,45300.00,true
+92,Dave Ito,,North,individual,2024-03-22,5600.00,true
+93,Ruth Svensson,"DataSphere, Inc.",West,startup,2024-04-11,22800.00,true
+94,Sean Murphy,,South,individual,2024-05-27,2600.00,FALSE
+95,Tamsin Wells,Archviz Studio,North,enterprise,2024-06-13,37100.00,true
+96,Umar Diallo,Spatial UX,West,startup,2024-07-29,15800.50,true
+97,Kim Nakata,ArcadeVR,east,startup,2024-08-15,4200.00,true
+98,Will Hoffman,Vertex Labs,North,enterprise,2024-09-22,0,true
+99,Xena Papadakis,MedSim Corp,East,enterprise,2024-10-08,63400.00,true
+100,TEST_USER_DO_NOT_DELETE,,North,,2024-06-01,0.00,false
