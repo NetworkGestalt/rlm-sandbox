@@ -18,8 +18,7 @@ TRACEBACK_LIMIT = 5000
 
 DEFAULT_DIRECTORY = Path(__file__).parent / "demo_dir"
 DEFAULT_TASK = (
-    "Audit the Q3 Business Review memo against the underlying data. "
-    "Identify every claim that is verifiably correct, every claim that is incorrect or inconsistent, "
-    "and every claim that cannot be verified from the available data. "
-    "For each discrepancy, explain what the data actually shows and suggest why the memo might differ."
+    "Using the customer feedback data and product technical specs, identify the top 3 engineering changes per product that would address the most impactful customer complaints. "
+    "For each recommendation, cite the relevant feedback, point to the spec constraint causing the issue, estimate whether the fix is a firmware update, component swap, or full redesign, "
+    "and flag any likely impact on unit cost or MSRP."
 )
