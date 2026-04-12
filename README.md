@@ -4,6 +4,7 @@ An implementation of [Recursive Language Models](https://arxiv.org/abs/2512.2460
 
 - Zhang, A., & Khattab, O. (2025, October). *Recursive language models*. https://alexzhang13.github.io/blog/2025/rlm/
 
+<br>
 <p align="center">
   <img src="assets/demo.gif" alt="Demo" width="650">
 </p>
